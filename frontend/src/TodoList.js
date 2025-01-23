@@ -4,7 +4,7 @@ import TodoInput from './TodoInput';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const API_HOST = 'http://127.0.0.1';
+const API_HOST = 'http://localhost';
 const API_PORT = '5000';
 const API_URL = `${API_HOST}:${API_PORT}/todos`;
 

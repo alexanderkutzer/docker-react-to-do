@@ -452,3 +452,122 @@
 2024-11-25 11:38:02 [info]: Incoming request: GET /todos
 2024-11-25 11:38:02 [info]: Todos erfolgreich abgerufen
 2024-11-25 11:38:02 [info]: Response time: 0.006s
+2025-01-23 09:27:18 [info]: This is an info message
+2025-01-23 09:27:18 [warn]: This is a warning message
+2025-01-23 09:27:18 [error]: This is an error message
+2025-01-23 09:27:18 [info]: Datenbank wird initialisiert
+2025-01-23 09:27:18 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:27:18 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:27:18 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:28:08 [info]: Incoming request: GET /
+2025-01-23 09:28:08 [info]: Hello World Route aufgerufen
+2025-01-23 09:28:08 [info]: Response time: 0.02s
+2025-01-23 09:28:26 [info]: Incoming request: GET /
+2025-01-23 09:28:26 [info]: Hello World Route aufgerufen
+2025-01-23 09:28:26 [info]: Response time: 0.012s
+2025-01-23 09:28:32 [info]: Incoming request: GET /todos
+2025-01-23 09:28:32 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:28:32 [info]: Response time: 0.003s
+2025-01-23 09:36:06 [info]: This is an info message
+2025-01-23 09:36:06 [warn]: This is a warning message
+2025-01-23 09:36:06 [error]: This is an error message
+2025-01-23 09:36:06 [info]: Datenbank wird initialisiert
+2025-01-23 09:36:06 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:36:06 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:36:06 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:37:44 [info]: Incoming request: GET /todos
+2025-01-23 09:37:44 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:37:44 [info]: Response time: 0.052s
+2025-01-23 09:40:20 [info]: This is an info message
+2025-01-23 09:40:20 [warn]: This is a warning message
+2025-01-23 09:40:20 [error]: This is an error message
+2025-01-23 09:40:20 [info]: Datenbank wird initialisiert
+2025-01-23 09:40:20 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:40:20 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:40:20 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:41:05 [info]: Incoming request: GET /
+2025-01-23 09:41:05 [info]: Hello World Route aufgerufen
+2025-01-23 09:41:05 [info]: Response time: 0.01s
+2025-01-23 09:41:13 [info]: Incoming request: GET /todos
+2025-01-23 09:41:13 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:41:13 [info]: Response time: 0.011s
+2025-01-23 09:49:12 [info]: This is an info message
+2025-01-23 09:49:12 [warn]: This is a warning message
+2025-01-23 09:49:12 [error]: This is an error message
+2025-01-23 09:49:13 [info]: Datenbank wird initialisiert
+2025-01-23 09:49:13 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:49:13 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:49:13 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:49:41 [info]: This is an info message
+2025-01-23 09:49:41 [warn]: This is a warning message
+2025-01-23 09:49:41 [error]: This is an error message
+2025-01-23 09:49:41 [info]: Datenbank wird initialisiert
+2025-01-23 09:49:41 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:49:41 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:49:41 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:50:07 [info]: This is an info message
+2025-01-23 09:50:07 [warn]: This is a warning message
+2025-01-23 09:50:07 [error]: This is an error message
+2025-01-23 09:50:07 [info]: Datenbank wird initialisiert
+2025-01-23 09:50:07 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:50:07 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:50:07 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:50:21 [info]: Incoming request: GET /todos
+2025-01-23 09:50:21 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:22 [info]: Response time: 0.009s
+2025-01-23 09:50:40 [info]: This is an info message
+2025-01-23 09:50:40 [warn]: This is a warning message
+2025-01-23 09:50:40 [error]: This is an error message
+2025-01-23 09:50:41 [info]: Datenbank wird initialisiert
+2025-01-23 09:50:41 [info]: Server läuft auf http://localhost:5000
+2025-01-23 09:50:41 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 09:50:41 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 09:50:43 [info]: Incoming request: GET /todos
+2025-01-23 09:50:43 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:43 [info]: Response time: 0.009s
+2025-01-23 09:50:44 [info]: Incoming request: GET /todos
+2025-01-23 09:50:44 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:44 [info]: Response time: 0.004s
+2025-01-23 09:50:45 [info]: Incoming request: GET /todos
+2025-01-23 09:50:45 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:45 [info]: Response time: 0.008s
+2025-01-23 09:50:45 [info]: Incoming request: GET /todos
+2025-01-23 09:50:45 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:45 [info]: Response time: 0.005s
+2025-01-23 09:50:45 [info]: Incoming request: GET /todos
+2025-01-23 09:50:45 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:45 [info]: Response time: 0.003s
+2025-01-23 09:50:45 [info]: Incoming request: GET /todos
+2025-01-23 09:50:45 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:45 [info]: Response time: 0.004s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.004s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.007s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.003s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.001s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.004s
+2025-01-23 09:50:46 [info]: Incoming request: GET /todos
+2025-01-23 09:50:46 [info]: Todos erfolgreich abgerufen
+2025-01-23 09:50:46 [info]: Response time: 0.004s
+2025-01-23 10:23:11 [info]: This is an info message
+2025-01-23 10:23:11 [warn]: This is a warning message
+2025-01-23 10:23:11 [error]: This is an error message
+2025-01-23 10:23:12 [info]: Datenbank wird initialisiert
+2025-01-23 10:23:12 [info]: Server läuft auf http://localhost:5000
+2025-01-23 10:23:12 [info]: Tabelle todos erfolgreich erstellt
+2025-01-23 10:23:12 [info]: Testdaten erfolgreich eingefügt
+2025-01-23 10:23:37 [info]: Incoming request: GET /todos
+2025-01-23 10:23:37 [info]: Todos erfolgreich abgerufen
+2025-01-23 10:23:37 [info]: Response time: 0.01s
+2025-01-23 10:23:37 [info]: Incoming request: GET /todos
+2025-01-23 10:23:37 [info]: Todos erfolgreich abgerufen
+2025-01-23 10:23:37 [info]: Response time: 0.002s
